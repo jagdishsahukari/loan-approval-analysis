@@ -71,14 +71,23 @@ The dashboard has seven pages: Executive Overview, Applicant Demographics, Finan
 ### Executive Overview
 ![Loan Approval Executive Overview](screenshots/loan_approval_executive_overview.png)
 
+### Applicant Demographics
+![Loan Approval Applicant Demographics](screenshots/loan_approval_demographics.png)
+
+### Financial Insights
+![Loan Approval Financial Insights](screenshots/loan_approval_financial_insights.png)
+
+### Property and Location Analysis
+![Loan Approval Property and Location Analysis](screenshots/loan_approval_property_location.png)
+
 ### Credit Risk Analysis
 ![Loan Approval Credit Risk Analysis](screenshots/loan_approval_credit_risk.png)
 
 ### Combined and Advanced Insights
-![Loan Approval Combined Insights](screenshots/loan_approval_combined_insights.png)
+![Loan Approval Combined and Advanced Insights](screenshots/loan_approval_combined_insights.png)
 
 ### Key Insights and Recommendations
-![Loan Approval Key Insights](screenshots/loan_approval_key_insights.png)
+![Loan Approval Key Insights and Recommendations](screenshots/loan_approval_key_insights.png)
 
 ## SQL Highlights
 
